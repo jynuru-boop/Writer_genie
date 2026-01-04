@@ -1,0 +1,7 @@
+{
+  "name": "사탕반 글쓰기 도우미",
+  "description": "컴퓨터와 인공지능 시대의 변화와 약속을 주제로, 학생들의 생각을 이끌어내고 5문단 글쓰기를 돕는 AI 학습 파트너입니다.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
